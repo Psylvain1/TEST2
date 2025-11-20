@@ -1,0 +1,1103 @@
+Performing C++ SOURCE FILE Test Wno-conversion_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a29c0/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_a29c0.dir/build.make CMakeFiles/cmTC_a29c0.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a29c0.dir/src.cxx.o
+/usr/bin/c++   -DWno-conversion_AVAILABLE -std=gnu++20   -Wno-conversion -o CMakeFiles/cmTC_a29c0.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_a29c0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a29c0.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-conversion_AVAILABLE CMakeFiles/cmTC_a29c0.dir/src.cxx.o -o cmTC_a29c0 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wall_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_d78a7/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_d78a7.dir/build.make CMakeFiles/cmTC_d78a7.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d78a7.dir/src.cxx.o
+/usr/bin/c++   -DWall_AVAILABLE -std=gnu++20   -Wall -o CMakeFiles/cmTC_d78a7.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_d78a7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d78a7.dir/link.txt --verbose=1
+/usr/bin/c++  -DWall_AVAILABLE CMakeFiles/cmTC_d78a7.dir/src.cxx.o -o cmTC_d78a7 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test W_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5a565/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_5a565.dir/build.make CMakeFiles/cmTC_5a565.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5a565.dir/src.cxx.o
+/usr/bin/c++   -DW_AVAILABLE -std=gnu++20   -W -o CMakeFiles/cmTC_5a565.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_5a565
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a565.dir/link.txt --verbose=1
+/usr/bin/c++  -DW_AVAILABLE CMakeFiles/cmTC_5a565.dir/src.cxx.o -o cmTC_5a565 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wshadow_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_06ee0/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_06ee0.dir/build.make CMakeFiles/cmTC_06ee0.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_06ee0.dir/src.cxx.o
+/usr/bin/c++   -DWshadow_AVAILABLE -std=gnu++20   -Wshadow -o CMakeFiles/cmTC_06ee0.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_06ee0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06ee0.dir/link.txt --verbose=1
+/usr/bin/c++  -DWshadow_AVAILABLE CMakeFiles/cmTC_06ee0.dir/src.cxx.o -o cmTC_06ee0 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wpointer-arith_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_89129/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_89129.dir/build.make CMakeFiles/cmTC_89129.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_89129.dir/src.cxx.o
+/usr/bin/c++   -DWpointer-arith_AVAILABLE -std=gnu++20   -Wpointer-arith -o CMakeFiles/cmTC_89129.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_89129
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_89129.dir/link.txt --verbose=1
+/usr/bin/c++  -DWpointer-arith_AVAILABLE CMakeFiles/cmTC_89129.dir/src.cxx.o -o cmTC_89129 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wcast-qual_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ccc1d/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_ccc1d.dir/build.make CMakeFiles/cmTC_ccc1d.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ccc1d.dir/src.cxx.o
+/usr/bin/c++   -DWcast-qual_AVAILABLE -std=gnu++20   -Wcast-qual -o CMakeFiles/cmTC_ccc1d.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_ccc1d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ccc1d.dir/link.txt --verbose=1
+/usr/bin/c++  -DWcast-qual_AVAILABLE CMakeFiles/cmTC_ccc1d.dir/src.cxx.o -o cmTC_ccc1d 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wcast-align_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_2baf4/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_2baf4.dir/build.make CMakeFiles/cmTC_2baf4.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2baf4.dir/src.cxx.o
+/usr/bin/c++   -DWcast-align_AVAILABLE -std=gnu++20   -Wcast-align -o CMakeFiles/cmTC_2baf4.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_2baf4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2baf4.dir/link.txt --verbose=1
+/usr/bin/c++  -DWcast-align_AVAILABLE CMakeFiles/cmTC_2baf4.dir/src.cxx.o -o cmTC_2baf4 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wwrite-strings_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_27ba1/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_27ba1.dir/build.make CMakeFiles/cmTC_27ba1.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_27ba1.dir/src.cxx.o
+/usr/bin/c++   -DWwrite-strings_AVAILABLE -std=gnu++20   -Wwrite-strings -o CMakeFiles/cmTC_27ba1.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_27ba1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27ba1.dir/link.txt --verbose=1
+/usr/bin/c++  -DWwrite-strings_AVAILABLE CMakeFiles/cmTC_27ba1.dir/src.cxx.o -o cmTC_27ba1 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wctor-dtor-privacy_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_bdac4/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_bdac4.dir/build.make CMakeFiles/cmTC_bdac4.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bdac4.dir/src.cxx.o
+/usr/bin/c++   -DWctor-dtor-privacy_AVAILABLE -std=gnu++20   -Wctor-dtor-privacy -o CMakeFiles/cmTC_bdac4.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_bdac4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bdac4.dir/link.txt --verbose=1
+/usr/bin/c++  -DWctor-dtor-privacy_AVAILABLE CMakeFiles/cmTC_bdac4.dir/src.cxx.o -o cmTC_bdac4 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wnon-virtual-dtor_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a56fd/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_a56fd.dir/build.make CMakeFiles/cmTC_a56fd.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a56fd.dir/src.cxx.o
+/usr/bin/c++   -DWnon-virtual-dtor_AVAILABLE -std=gnu++20   -Wnon-virtual-dtor -o CMakeFiles/cmTC_a56fd.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_a56fd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a56fd.dir/link.txt --verbose=1
+/usr/bin/c++  -DWnon-virtual-dtor_AVAILABLE CMakeFiles/cmTC_a56fd.dir/src.cxx.o -o cmTC_a56fd 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Woverloaded-virtual_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_6b500/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_6b500.dir/build.make CMakeFiles/cmTC_6b500.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6b500.dir/src.cxx.o
+/usr/bin/c++   -DWoverloaded-virtual_AVAILABLE -std=gnu++20   -Woverloaded-virtual -o CMakeFiles/cmTC_6b500.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_6b500
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6b500.dir/link.txt --verbose=1
+/usr/bin/c++  -DWoverloaded-virtual_AVAILABLE CMakeFiles/cmTC_6b500.dir/src.cxx.o -o cmTC_6b500 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wreturn-type_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f184a/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_f184a.dir/build.make CMakeFiles/cmTC_f184a.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f184a.dir/src.cxx.o
+/usr/bin/c++   -DWreturn-type_AVAILABLE -std=gnu++20   -Wreturn-type -o CMakeFiles/cmTC_f184a.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_f184a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f184a.dir/link.txt --verbose=1
+/usr/bin/c++  -DWreturn-type_AVAILABLE CMakeFiles/cmTC_f184a.dir/src.cxx.o -o cmTC_f184a 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wfloat-equal_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_b2058/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_b2058.dir/build.make CMakeFiles/cmTC_b2058.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b2058.dir/src.cxx.o
+/usr/bin/c++   -DWfloat-equal_AVAILABLE -std=gnu++20   -Wfloat-equal -o CMakeFiles/cmTC_b2058.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_b2058
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b2058.dir/link.txt --verbose=1
+/usr/bin/c++  -DWfloat-equal_AVAILABLE CMakeFiles/cmTC_b2058.dir/src.cxx.o -o cmTC_b2058 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-endif-labels_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c59ff/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_c59ff.dir/build.make CMakeFiles/cmTC_c59ff.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c59ff.dir/src.cxx.o
+/usr/bin/c++   -DWno-endif-labels_AVAILABLE -std=gnu++20   -Wno-endif-labels -o CMakeFiles/cmTC_c59ff.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_c59ff
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c59ff.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-endif-labels_AVAILABLE CMakeFiles/cmTC_c59ff.dir/src.cxx.o -o cmTC_c59ff 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wmissing-format-attribute_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_009ba/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_009ba.dir/build.make CMakeFiles/cmTC_009ba.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_009ba.dir/src.cxx.o
+/usr/bin/c++   -DWmissing-format-attribute_AVAILABLE -std=gnu++20   -Wmissing-format-attribute -o CMakeFiles/cmTC_009ba.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_009ba
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_009ba.dir/link.txt --verbose=1
+/usr/bin/c++  -DWmissing-format-attribute_AVAILABLE CMakeFiles/cmTC_009ba.dir/src.cxx.o -o cmTC_009ba 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-multichar_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_64e30/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_64e30.dir/build.make CMakeFiles/cmTC_64e30.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_64e30.dir/src.cxx.o
+/usr/bin/c++   -DWno-multichar_AVAILABLE -std=gnu++20   -Wno-multichar -o CMakeFiles/cmTC_64e30.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_64e30
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_64e30.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-multichar_AVAILABLE CMakeFiles/cmTC_64e30.dir/src.cxx.o -o cmTC_64e30 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-deprecated-declarations_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_cc6aa/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_cc6aa.dir/build.make CMakeFiles/cmTC_cc6aa.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cc6aa.dir/src.cxx.o
+/usr/bin/c++   -DWno-deprecated-declarations_AVAILABLE -std=gnu++20   -Wno-deprecated-declarations -o CMakeFiles/cmTC_cc6aa.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_cc6aa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cc6aa.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-deprecated-declarations_AVAILABLE CMakeFiles/cmTC_cc6aa.dir/src.cxx.o -o cmTC_cc6aa 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wpacked_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_4cc61/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_4cc61.dir/build.make CMakeFiles/cmTC_4cc61.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4cc61.dir/src.cxx.o
+/usr/bin/c++   -DWpacked_AVAILABLE -std=gnu++20   -Wpacked -o CMakeFiles/cmTC_4cc61.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_4cc61
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4cc61.dir/link.txt --verbose=1
+/usr/bin/c++  -DWpacked_AVAILABLE CMakeFiles/cmTC_4cc61.dir/src.cxx.o -o cmTC_4cc61 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wredundant-decls_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9765f/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_9765f.dir/build.make CMakeFiles/cmTC_9765f.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9765f.dir/src.cxx.o
+/usr/bin/c++   -DWredundant-decls_AVAILABLE -std=gnu++20   -Wredundant-decls -o CMakeFiles/cmTC_9765f.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_9765f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9765f.dir/link.txt --verbose=1
+/usr/bin/c++  -DWredundant-decls_AVAILABLE CMakeFiles/cmTC_9765f.dir/src.cxx.o -o cmTC_9765f 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wunknown-pragmas_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9e397/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_9e397.dir/build.make CMakeFiles/cmTC_9e397.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9e397.dir/src.cxx.o
+/usr/bin/c++   -DWunknown-pragmas_AVAILABLE -std=gnu++20   -Wunknown-pragmas -o CMakeFiles/cmTC_9e397.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_9e397
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9e397.dir/link.txt --verbose=1
+/usr/bin/c++  -DWunknown-pragmas_AVAILABLE CMakeFiles/cmTC_9e397.dir/src.cxx.o -o cmTC_9e397 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wundef_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3643c/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_3643c.dir/build.make CMakeFiles/cmTC_3643c.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3643c.dir/src.cxx.o
+/usr/bin/c++   -DWundef_AVAILABLE -std=gnu++20   -Wundef -o CMakeFiles/cmTC_3643c.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_3643c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3643c.dir/link.txt --verbose=1
+/usr/bin/c++  -DWundef_AVAILABLE CMakeFiles/cmTC_3643c.dir/src.cxx.o -o cmTC_3643c 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wreorder_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_8094a/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_8094a.dir/build.make CMakeFiles/cmTC_8094a.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8094a.dir/src.cxx.o
+/usr/bin/c++   -DWreorder_AVAILABLE -std=gnu++20   -Wreorder -o CMakeFiles/cmTC_8094a.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_8094a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8094a.dir/link.txt --verbose=1
+/usr/bin/c++  -DWreorder_AVAILABLE CMakeFiles/cmTC_8094a.dir/src.cxx.o -o cmTC_8094a 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wdouble-promotion_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_c7aa3/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_c7aa3.dir/build.make CMakeFiles/cmTC_c7aa3.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c7aa3.dir/src.cxx.o
+/usr/bin/c++   -DWdouble-promotion_AVAILABLE -std=gnu++20   -Wdouble-promotion -o CMakeFiles/cmTC_c7aa3.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_c7aa3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c7aa3.dir/link.txt --verbose=1
+/usr/bin/c++  -DWdouble-promotion_AVAILABLE CMakeFiles/cmTC_c7aa3.dir/src.cxx.o -o cmTC_c7aa3 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Winit-self_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a8da1/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_a8da1.dir/build.make CMakeFiles/cmTC_a8da1.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a8da1.dir/src.cxx.o
+/usr/bin/c++   -DWinit-self_AVAILABLE -std=gnu++20   -Winit-self -o CMakeFiles/cmTC_a8da1.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_a8da1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8da1.dir/link.txt --verbose=1
+/usr/bin/c++  -DWinit-self_AVAILABLE CMakeFiles/cmTC_a8da1.dir/src.cxx.o -o cmTC_a8da1 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wlogical-op_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a5978/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_a5978.dir/build.make CMakeFiles/cmTC_a5978.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a5978.dir/src.cxx.o
+/usr/bin/c++   -DWlogical-op_AVAILABLE -std=gnu++20   -Wlogical-op -o CMakeFiles/cmTC_a5978.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_a5978
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a5978.dir/link.txt --verbose=1
+/usr/bin/c++  -DWlogical-op_AVAILABLE CMakeFiles/cmTC_a5978.dir/src.cxx.o -o cmTC_a5978 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wmissing-include-dirs_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_72e2e/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_72e2e.dir/build.make CMakeFiles/cmTC_72e2e.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_72e2e.dir/src.cxx.o
+/usr/bin/c++   -DWmissing-include-dirs_AVAILABLE -std=gnu++20   -Wmissing-include-dirs -o CMakeFiles/cmTC_72e2e.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_72e2e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_72e2e.dir/link.txt --verbose=1
+/usr/bin/c++  -DWmissing-include-dirs_AVAILABLE CMakeFiles/cmTC_72e2e.dir/src.cxx.o -o cmTC_72e2e 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wnoexcept_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1e127/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_1e127.dir/build.make CMakeFiles/cmTC_1e127.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1e127.dir/src.cxx.o
+/usr/bin/c++   -DWnoexcept_AVAILABLE -std=gnu++20   -Wnoexcept -o CMakeFiles/cmTC_1e127.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_1e127
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1e127.dir/link.txt --verbose=1
+/usr/bin/c++  -DWnoexcept_AVAILABLE CMakeFiles/cmTC_1e127.dir/src.cxx.o -o cmTC_1e127 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wold-style-cast_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1e866/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_1e866.dir/build.make CMakeFiles/cmTC_1e866.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1e866.dir/src.cxx.o
+/usr/bin/c++   -DWold-style-cast_AVAILABLE -std=gnu++20   -Wold-style-cast -o CMakeFiles/cmTC_1e866.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_1e866
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1e866.dir/link.txt --verbose=1
+/usr/bin/c++  -DWold-style-cast_AVAILABLE CMakeFiles/cmTC_1e866.dir/src.cxx.o -o cmTC_1e866 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wstrict-null-sentinel_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f97df/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_f97df.dir/build.make CMakeFiles/cmTC_f97df.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f97df.dir/src.cxx.o
+/usr/bin/c++   -DWstrict-null-sentinel_AVAILABLE -std=gnu++20   -Wstrict-null-sentinel -o CMakeFiles/cmTC_f97df.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_f97df
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f97df.dir/link.txt --verbose=1
+/usr/bin/c++  -DWstrict-null-sentinel_AVAILABLE CMakeFiles/cmTC_f97df.dir/src.cxx.o -o cmTC_f97df 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wtrampolines_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_2e8c4/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_2e8c4.dir/build.make CMakeFiles/cmTC_2e8c4.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2e8c4.dir/src.cxx.o
+/usr/bin/c++   -DWtrampolines_AVAILABLE -std=gnu++20   -Wtrampolines -o CMakeFiles/cmTC_2e8c4.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_2e8c4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2e8c4.dir/link.txt --verbose=1
+/usr/bin/c++  -DWtrampolines_AVAILABLE CMakeFiles/cmTC_2e8c4.dir/src.cxx.o -o cmTC_2e8c4 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wvector-operation-performance_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_8b3fa/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_8b3fa.dir/build.make CMakeFiles/cmTC_8b3fa.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8b3fa.dir/src.cxx.o
+/usr/bin/c++   -DWvector-operation-performance_AVAILABLE -std=gnu++20   -Wvector-operation-performance -o CMakeFiles/cmTC_8b3fa.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_8b3fa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8b3fa.dir/link.txt --verbose=1
+/usr/bin/c++  -DWvector-operation-performance_AVAILABLE CMakeFiles/cmTC_8b3fa.dir/src.cxx.o -o cmTC_8b3fa 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wignored-qualifiers_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_de9d9/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_de9d9.dir/build.make CMakeFiles/cmTC_de9d9.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_de9d9.dir/src.cxx.o
+/usr/bin/c++   -DWignored-qualifiers_AVAILABLE -std=gnu++20   -Wignored-qualifiers -o CMakeFiles/cmTC_de9d9.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_de9d9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_de9d9.dir/link.txt --verbose=1
+/usr/bin/c++  -DWignored-qualifiers_AVAILABLE CMakeFiles/cmTC_de9d9.dir/src.cxx.o -o cmTC_de9d9 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wsequence-point_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_53202/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_53202.dir/build.make CMakeFiles/cmTC_53202.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_53202.dir/src.cxx.o
+/usr/bin/c++   -DWsequence-point_AVAILABLE -std=gnu++20   -Wsequence-point -o CMakeFiles/cmTC_53202.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_53202
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53202.dir/link.txt --verbose=1
+/usr/bin/c++  -DWsequence-point_AVAILABLE CMakeFiles/cmTC_53202.dir/src.cxx.o -o cmTC_53202 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wswitch-bool_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_7657e/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_7657e.dir/build.make CMakeFiles/cmTC_7657e.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7657e.dir/src.cxx.o
+/usr/bin/c++   -DWswitch-bool_AVAILABLE -std=gnu++20   -Wswitch-bool -o CMakeFiles/cmTC_7657e.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_7657e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7657e.dir/link.txt --verbose=1
+/usr/bin/c++  -DWswitch-bool_AVAILABLE CMakeFiles/cmTC_7657e.dir/src.cxx.o -o cmTC_7657e 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wlogical-not-parentheses_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_564a8/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_564a8.dir/build.make CMakeFiles/cmTC_564a8.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_564a8.dir/src.cxx.o
+/usr/bin/c++   -DWlogical-not-parentheses_AVAILABLE -std=gnu++20   -Wlogical-not-parentheses -o CMakeFiles/cmTC_564a8.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_564a8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_564a8.dir/link.txt --verbose=1
+/usr/bin/c++  -DWlogical-not-parentheses_AVAILABLE CMakeFiles/cmTC_564a8.dir/src.cxx.o -o cmTC_564a8 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wsizeof-array-argument_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_2d8dc/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_2d8dc.dir/build.make CMakeFiles/cmTC_2d8dc.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2d8dc.dir/src.cxx.o
+/usr/bin/c++   -DWsizeof-array-argument_AVAILABLE -std=gnu++20   -Wsizeof-array-argument -o CMakeFiles/cmTC_2d8dc.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_2d8dc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2d8dc.dir/link.txt --verbose=1
+/usr/bin/c++  -DWsizeof-array-argument_AVAILABLE CMakeFiles/cmTC_2d8dc.dir/src.cxx.o -o cmTC_2d8dc 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wbool-compare_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_29753/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_29753.dir/build.make CMakeFiles/cmTC_29753.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_29753.dir/src.cxx.o
+/usr/bin/c++   -DWbool-compare_AVAILABLE -std=gnu++20   -Wbool-compare -o CMakeFiles/cmTC_29753.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_29753
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_29753.dir/link.txt --verbose=1
+/usr/bin/c++  -DWbool-compare_AVAILABLE CMakeFiles/cmTC_29753.dir/src.cxx.o -o cmTC_29753 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wshift-negative-value_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_424d4/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_424d4.dir/build.make CMakeFiles/cmTC_424d4.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_424d4.dir/src.cxx.o
+/usr/bin/c++   -DWshift-negative-value_AVAILABLE -std=gnu++20   -Wshift-negative-value -o CMakeFiles/cmTC_424d4.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_424d4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_424d4.dir/link.txt --verbose=1
+/usr/bin/c++  -DWshift-negative-value_AVAILABLE CMakeFiles/cmTC_424d4.dir/src.cxx.o -o cmTC_424d4 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wshift-overflow_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_0df18/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_0df18.dir/build.make CMakeFiles/cmTC_0df18.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0df18.dir/src.cxx.o
+/usr/bin/c++   -DWshift-overflow_AVAILABLE -std=gnu++20   -Wshift-overflow -o CMakeFiles/cmTC_0df18.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_0df18
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0df18.dir/link.txt --verbose=1
+/usr/bin/c++  -DWshift-overflow_AVAILABLE CMakeFiles/cmTC_0df18.dir/src.cxx.o -o cmTC_0df18 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wtautological-compare_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_d2361/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_d2361.dir/build.make CMakeFiles/cmTC_d2361.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d2361.dir/src.cxx.o
+/usr/bin/c++   -DWtautological-compare_AVAILABLE -std=gnu++20   -Wtautological-compare -o CMakeFiles/cmTC_d2361.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_d2361
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d2361.dir/link.txt --verbose=1
+/usr/bin/c++  -DWtautological-compare_AVAILABLE CMakeFiles/cmTC_d2361.dir/src.cxx.o -o cmTC_d2361 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wnull-dereference_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_bc34d/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_bc34d.dir/build.make CMakeFiles/cmTC_bc34d.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bc34d.dir/src.cxx.o
+/usr/bin/c++   -DWnull-dereference_AVAILABLE -std=gnu++20   -Wnull-dereference -o CMakeFiles/cmTC_bc34d.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_bc34d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bc34d.dir/link.txt --verbose=1
+/usr/bin/c++  -DWnull-dereference_AVAILABLE CMakeFiles/cmTC_bc34d.dir/src.cxx.o -o cmTC_bc34d 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wduplicated-cond_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_cf4c5/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_cf4c5.dir/build.make CMakeFiles/cmTC_cf4c5.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cf4c5.dir/src.cxx.o
+/usr/bin/c++   -DWduplicated-cond_AVAILABLE -std=gnu++20   -Wduplicated-cond -o CMakeFiles/cmTC_cf4c5.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_cf4c5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf4c5.dir/link.txt --verbose=1
+/usr/bin/c++  -DWduplicated-cond_AVAILABLE CMakeFiles/cmTC_cf4c5.dir/src.cxx.o -o cmTC_cf4c5 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wmisleading-indentation_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_09412/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_09412.dir/build.make CMakeFiles/cmTC_09412.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_09412.dir/src.cxx.o
+/usr/bin/c++   -DWmisleading-indentation_AVAILABLE -std=gnu++20   -Wmisleading-indentation -o CMakeFiles/cmTC_09412.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_09412
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_09412.dir/link.txt --verbose=1
+/usr/bin/c++  -DWmisleading-indentation_AVAILABLE CMakeFiles/cmTC_09412.dir/src.cxx.o -o cmTC_09412 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wduplicated-branches_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ba2b2/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_ba2b2.dir/build.make CMakeFiles/cmTC_ba2b2.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ba2b2.dir/src.cxx.o
+/usr/bin/c++   -DWduplicated-branches_AVAILABLE -std=gnu++20   -Wduplicated-branches -o CMakeFiles/cmTC_ba2b2.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_ba2b2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba2b2.dir/link.txt --verbose=1
+/usr/bin/c++  -DWduplicated-branches_AVAILABLE CMakeFiles/cmTC_ba2b2.dir/src.cxx.o -o cmTC_ba2b2 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wregister_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5b56e/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_5b56e.dir/build.make CMakeFiles/cmTC_5b56e.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5b56e.dir/src.cxx.o
+/usr/bin/c++   -DWregister_AVAILABLE -std=gnu++20   -Wregister -o CMakeFiles/cmTC_5b56e.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_5b56e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5b56e.dir/link.txt --verbose=1
+/usr/bin/c++  -DWregister_AVAILABLE CMakeFiles/cmTC_5b56e.dir/src.cxx.o -o cmTC_5b56e 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wint-in-bool-context_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_d1db4/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_d1db4.dir/build.make CMakeFiles/cmTC_d1db4.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d1db4.dir/src.cxx.o
+/usr/bin/c++   -DWint-in-bool-context_AVAILABLE -std=gnu++20   -Wint-in-bool-context -o CMakeFiles/cmTC_d1db4.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_d1db4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d1db4.dir/link.txt --verbose=1
+/usr/bin/c++  -DWint-in-bool-context_AVAILABLE CMakeFiles/cmTC_d1db4.dir/src.cxx.o -o cmTC_d1db4 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wsuggest-override_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_d82f3/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_d82f3.dir/build.make CMakeFiles/cmTC_d82f3.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d82f3.dir/src.cxx.o
+/usr/bin/c++   -DWsuggest-override_AVAILABLE -std=gnu++20   -Wsuggest-override -o CMakeFiles/cmTC_d82f3.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_d82f3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d82f3.dir/link.txt --verbose=1
+/usr/bin/c++  -DWsuggest-override_AVAILABLE CMakeFiles/cmTC_d82f3.dir/src.cxx.o -o cmTC_d82f3 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-switch-enum_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_91d6e/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_91d6e.dir/build.make CMakeFiles/cmTC_91d6e.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_91d6e.dir/src.cxx.o
+/usr/bin/c++   -DWno-switch-enum_AVAILABLE -std=gnu++20   -Wno-switch-enum -o CMakeFiles/cmTC_91d6e.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_91d6e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_91d6e.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-switch-enum_AVAILABLE CMakeFiles/cmTC_91d6e.dir/src.cxx.o -o cmTC_91d6e 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-sign-compare_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_715ab/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_715ab.dir/build.make CMakeFiles/cmTC_715ab.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_715ab.dir/src.cxx.o
+/usr/bin/c++   -DWno-sign-compare_AVAILABLE -std=gnu++20   -Wno-sign-compare -o CMakeFiles/cmTC_715ab.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_715ab
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_715ab.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-sign-compare_AVAILABLE CMakeFiles/cmTC_715ab.dir/src.cxx.o -o cmTC_715ab 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-missing-declarations_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a2ba2/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_a2ba2.dir/build.make CMakeFiles/cmTC_a2ba2.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a2ba2.dir/src.cxx.o
+/usr/bin/c++   -DWno-missing-declarations_AVAILABLE -std=gnu++20   -Wno-missing-declarations -o CMakeFiles/cmTC_a2ba2.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_a2ba2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2ba2.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-missing-declarations_AVAILABLE CMakeFiles/cmTC_a2ba2.dir/src.cxx.o -o cmTC_a2ba2 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-unused-macros_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_1a7dd/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_1a7dd.dir/build.make CMakeFiles/cmTC_1a7dd.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1a7dd.dir/src.cxx.o
+/usr/bin/c++   -DWno-unused-macros_AVAILABLE -std=gnu++20   -Wno-unused-macros -o CMakeFiles/cmTC_1a7dd.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_1a7dd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1a7dd.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-unused-macros_AVAILABLE CMakeFiles/cmTC_1a7dd.dir/src.cxx.o -o cmTC_1a7dd 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wdisabled-optimization_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_f9773/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_f9773.dir/build.make CMakeFiles/cmTC_f9773.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f9773.dir/src.cxx.o
+/usr/bin/c++   -DWdisabled-optimization_AVAILABLE -std=gnu++20   -Wdisabled-optimization -o CMakeFiles/cmTC_f9773.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_f9773
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f9773.dir/link.txt --verbose=1
+/usr/bin/c++  -DWdisabled-optimization_AVAILABLE CMakeFiles/cmTC_f9773.dir/src.cxx.o -o cmTC_f9773 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test fvisibility=hidden_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5cf37/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_5cf37.dir/build.make CMakeFiles/cmTC_5cf37.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5cf37.dir/src.cxx.o
+/usr/bin/c++   -Dfvisibility=hidden_AVAILABLE -std=gnu++20   -fvisibility=hidden -o CMakeFiles/cmTC_5cf37.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_5cf37
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5cf37.dir/link.txt --verbose=1
+/usr/bin/c++  -Dfvisibility=hidden_AVAILABLE CMakeFiles/cmTC_5cf37.dir/src.cxx.o -o cmTC_5cf37 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test fvisibility-inlines-hidden_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_fd9df/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_fd9df.dir/build.make CMakeFiles/cmTC_fd9df.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fd9df.dir/src.cxx.o
+/usr/bin/c++   -Dfvisibility-inlines-hidden_AVAILABLE -std=gnu++20   -fvisibility-inlines-hidden -o CMakeFiles/cmTC_fd9df.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_fd9df
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fd9df.dir/link.txt --verbose=1
+/usr/bin/c++  -Dfvisibility-inlines-hidden_AVAILABLE CMakeFiles/cmTC_fd9df.dir/src.cxx.o -o cmTC_fd9df 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test march=native_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_b216e/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_b216e.dir/build.make CMakeFiles/cmTC_b216e.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b216e.dir/src.cxx.o
+/usr/bin/c++   -Dmarch=native_AVAILABLE -std=gnu++20   -march=native -o CMakeFiles/cmTC_b216e.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_b216e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b216e.dir/link.txt --verbose=1
+/usr/bin/c++  -Dmarch=native_AVAILABLE CMakeFiles/cmTC_b216e.dir/src.cxx.o -o cmTC_b216e 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test ftree-vectorize_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_d8fc0/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_d8fc0.dir/build.make CMakeFiles/cmTC_d8fc0.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d8fc0.dir/src.cxx.o
+/usr/bin/c++   -Dftree-vectorize_AVAILABLE -std=gnu++20   -ftree-vectorize -o CMakeFiles/cmTC_d8fc0.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_d8fc0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8fc0.dir/link.txt --verbose=1
+/usr/bin/c++  -Dftree-vectorize_AVAILABLE CMakeFiles/cmTC_d8fc0.dir/src.cxx.o -o cmTC_d8fc0 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test fno-fast-math_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_81c52/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_81c52.dir/build.make CMakeFiles/cmTC_81c52.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_81c52.dir/src.cxx.o
+/usr/bin/c++   -Dfno-fast-math_AVAILABLE -std=gnu++20   -fno-fast-math -o CMakeFiles/cmTC_81c52.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_81c52
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_81c52.dir/link.txt --verbose=1
+/usr/bin/c++  -Dfno-fast-math_AVAILABLE CMakeFiles/cmTC_81c52.dir/src.cxx.o -o cmTC_81c52 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test ffast-math_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a6fb7/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_a6fb7.dir/build.make CMakeFiles/cmTC_a6fb7.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a6fb7.dir/src.cxx.o
+/usr/bin/c++   -Dffast-math_AVAILABLE -std=gnu++20   -ffast-math -o CMakeFiles/cmTC_a6fb7.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+Linking CXX executable cmTC_a6fb7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a6fb7.dir/link.txt --verbose=1
+/usr/bin/c++  -Dffast-math_AVAILABLE CMakeFiles/cmTC_a6fb7.dir/src.cxx.o -o cmTC_a6fb7 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test fvisibility=hidden_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_13665/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_13665.dir/build.make CMakeFiles/cmTC_13665.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_13665.dir/src.cxx.o
+/usr/bin/c++   -Dfvisibility=hidden_AVAILABLE -std=gnu++20   -fvisibility=hidden -o CMakeFiles/cmTC_13665.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_13665
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13665.dir/link.txt --verbose=1
+/usr/bin/c++  -Dfvisibility=hidden_AVAILABLE CMakeFiles/cmTC_13665.dir/src.cxx.o -o cmTC_13665 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test march=native_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3be3c/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_3be3c.dir/build.make CMakeFiles/cmTC_3be3c.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3be3c.dir/src.cxx.o
+/usr/bin/c++   -Dmarch=native_AVAILABLE -std=gnu++20   -march=native -o CMakeFiles/cmTC_3be3c.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_3be3c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3be3c.dir/link.txt --verbose=1
+/usr/bin/c++  -Dmarch=native_AVAILABLE CMakeFiles/cmTC_3be3c.dir/src.cxx.o -o cmTC_3be3c 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test fvisibility=hidden_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_736d1/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_736d1.dir/build.make CMakeFiles/cmTC_736d1.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_736d1.dir/src.cxx.o
+/usr/bin/c++   -Dfvisibility=hidden_AVAILABLE -std=gnu++20   -fvisibility=hidden -o CMakeFiles/cmTC_736d1.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_736d1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_736d1.dir/link.txt --verbose=1
+/usr/bin/c++  -Dfvisibility=hidden_AVAILABLE CMakeFiles/cmTC_736d1.dir/src.cxx.o -o cmTC_736d1 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test march=native_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_0f7b2/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_0f7b2.dir/build.make CMakeFiles/cmTC_0f7b2.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0f7b2.dir/src.cxx.o
+/usr/bin/c++   -Dmarch=native_AVAILABLE -std=gnu++20   -march=native -o CMakeFiles/cmTC_0f7b2.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_0f7b2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0f7b2.dir/link.txt --verbose=1
+/usr/bin/c++  -Dmarch=native_AVAILABLE CMakeFiles/cmTC_0f7b2.dir/src.cxx.o -o cmTC_0f7b2 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test fvisibility=hidden_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_33ebd/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_33ebd.dir/build.make CMakeFiles/cmTC_33ebd.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_33ebd.dir/src.cxx.o
+/usr/bin/c++   -Dfvisibility=hidden_AVAILABLE -std=gnu++20   -fvisibility=hidden -o CMakeFiles/cmTC_33ebd.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_33ebd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_33ebd.dir/link.txt --verbose=1
+/usr/bin/c++  -Dfvisibility=hidden_AVAILABLE CMakeFiles/cmTC_33ebd.dir/src.cxx.o -o cmTC_33ebd 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test march=native_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_6aefb/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_6aefb.dir/build.make CMakeFiles/cmTC_6aefb.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6aefb.dir/src.cxx.o
+/usr/bin/c++   -Dmarch=native_AVAILABLE -std=gnu++20   -march=native -o CMakeFiles/cmTC_6aefb.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_6aefb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6aefb.dir/link.txt --verbose=1
+/usr/bin/c++  -Dmarch=native_AVAILABLE CMakeFiles/cmTC_6aefb.dir/src.cxx.o -o cmTC_6aefb 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test fvisibility=hidden_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_25744/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_25744.dir/build.make CMakeFiles/cmTC_25744.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_25744.dir/src.cxx.o
+/usr/bin/c++   -Dfvisibility=hidden_AVAILABLE -std=gnu++20   -fvisibility=hidden -o CMakeFiles/cmTC_25744.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_25744
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_25744.dir/link.txt --verbose=1
+/usr/bin/c++  -Dfvisibility=hidden_AVAILABLE CMakeFiles/cmTC_25744.dir/src.cxx.o -o cmTC_25744 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test march=native_AVAILABLE succeded with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_0a7e6/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_0a7e6.dir/build.make CMakeFiles/cmTC_0a7e6.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0a7e6.dir/src.cxx.o
+/usr/bin/c++   -Dmarch=native_AVAILABLE -std=gnu++20   -march=native -o CMakeFiles/cmTC_0a7e6.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_0a7e6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0a7e6.dir/link.txt --verbose=1
+/usr/bin/c++  -Dmarch=native_AVAILABLE CMakeFiles/cmTC_0a7e6.dir/src.cxx.o -o cmTC_0a7e6 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}

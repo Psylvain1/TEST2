@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/LogarithmicStrainComputeAxialStrainIncrementElasticPredictionTest.dir/LogarithmicStrainComputeAxialStrainIncrementElasticPredictionTest.cxx.o"
+  "CMakeFiles/LogarithmicStrainComputeAxialStrainIncrementElasticPredictionTest.dir/LogarithmicStrainComputeAxialStrainIncrementElasticPredictionTest.cxx.o.d"
+  "LogarithmicStrainComputeAxialStrainIncrementElasticPredictionTest"
+  "LogarithmicStrainComputeAxialStrainIncrementElasticPredictionTest.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/LogarithmicStrainComputeAxialStrainIncrementElasticPredictionTest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

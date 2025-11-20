@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/test-c.dir/test-c.c.o" -o test-c  -Wl,-rpath,/home/sylv/TFEL/build/mfront/tests/properties:/home/sylv/TFEL/build/src/Exception libMFrontMaterialProperties.so -Wl,-rpath-link,/home/sylv/TFEL/build/src/Exception 

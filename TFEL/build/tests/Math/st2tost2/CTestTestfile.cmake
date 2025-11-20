@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/sylv/TFEL/tfel/tests/Math/st2tost2
+# Build directory: /home/sylv/TFEL/build/tests/Math/st2tost2
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(st2tost2 "/home/sylv/TFEL/build/tests/Math/st2tost2/st2tost2")
+set_tests_properties(st2tost2 PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;13;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(st2tost2-2 "/home/sylv/TFEL/build/tests/Math/st2tost2/st2tost2-2")
+set_tests_properties(st2tost2-2 PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;14;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(st2tost2-3 "/home/sylv/TFEL/build/tests/Math/st2tost2/st2tost2-3")
+set_tests_properties(st2tost2-3 PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;15;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(st2tost2_components "/home/sylv/TFEL/build/tests/Math/st2tost2/st2tost2_components")
+set_tests_properties(st2tost2_components PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;16;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(st2tost2_operations "/home/sylv/TFEL/build/tests/Math/st2tost2/st2tost2_operations")
+set_tests_properties(st2tost2_operations PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;17;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ST2toST2FromTinyMatrixView "/home/sylv/TFEL/build/tests/Math/st2tost2/ST2toST2FromTinyMatrixView")
+set_tests_properties(ST2toST2FromTinyMatrixView PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;18;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ST2toST2FromTinyMatrixView2 "/home/sylv/TFEL/build/tests/Math/st2tost2/ST2toST2FromTinyMatrixView2")
+set_tests_properties(ST2toST2FromTinyMatrixView2 PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;19;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(StensorSquareDerivative "/home/sylv/TFEL/build/tests/Math/st2tost2/StensorSquareDerivative")
+set_tests_properties(StensorSquareDerivative PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;20;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ST2toST2ChangeBasis "/home/sylv/TFEL/build/tests/Math/st2tost2/ST2toST2ChangeBasis")
+set_tests_properties(ST2toST2ChangeBasis PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;21;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ST2toST2PushForward "/home/sylv/TFEL/build/tests/Math/st2tost2/ST2toST2PushForward")
+set_tests_properties(ST2toST2PushForward PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;22;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ConvertToTangentModuliTest "/home/sylv/TFEL/build/tests/Math/st2tost2/ConvertToTangentModuliTest")
+set_tests_properties(ConvertToTangentModuliTest PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;23;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ConvertLogarithmicStrainTangentOperator "/home/sylv/TFEL/build/tests/Math/st2tost2/ConvertLogarithmicStrainTangentOperator")
+set_tests_properties(ConvertLogarithmicStrainTangentOperator PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;24;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ComputeDeterminantSecondDerivativeTest "/home/sylv/TFEL/build/tests/Math/st2tost2/ComputeDeterminantSecondDerivativeTest")
+set_tests_properties(ComputeDeterminantSecondDerivativeTest PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;25;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(ComputeDeviatorDeterminantSecondDerivativeTest "/home/sylv/TFEL/build/tests/Math/st2tost2/ComputeDeviatorDeterminantSecondDerivativeTest")
+set_tests_properties(ComputeDeviatorDeterminantSecondDerivativeTest PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;26;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")
+add_test(SymmetricStensorProductDerivativeTest "/home/sylv/TFEL/build/tests/Math/st2tost2/SymmetricStensorProductDerivativeTest")
+set_tests_properties(SymmetricStensorProductDerivativeTest PROPERTIES  _BACKTRACE_TRIPLES "/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;4;add_test;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;27;tests_st2tost2;/home/sylv/TFEL/tfel/tests/Math/st2tost2/CMakeLists.txt;0;")

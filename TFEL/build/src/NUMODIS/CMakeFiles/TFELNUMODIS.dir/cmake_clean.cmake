@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".5.1.0-dev"
+  "CMakeFiles/TFELNUMODIS.dir/AnalyseJunction.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/AnalyseJunction.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/BCC.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/BCC.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/Crystallo.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/Crystallo.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/Cubic.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/Cubic.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/FCC.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/FCC.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/FrankRead.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/FrankRead.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/GSystem.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/GSystem.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/HCP.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/HCP.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/Hardening.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/Hardening.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/IBurgers.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/IBurgers.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/IDirection.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/IDirection.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/IPlane.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/IPlane.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/TripleNode.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/TripleNode.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/Utilities.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/Utilities.cxx.o.d"
+  "CMakeFiles/TFELNUMODIS.dir/Vect3.cxx.o"
+  "CMakeFiles/TFELNUMODIS.dir/Vect3.cxx.o.d"
+  "libTFELNUMODIS-5.1.0-dev.pdb"
+  "libTFELNUMODIS-5.1.0-dev.so"
+  "libTFELNUMODIS-5.1.0-dev.so.5.1.0-dev"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/TFELNUMODIS.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

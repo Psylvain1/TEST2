@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../mtest_5_1_0_dev/_mtest_5_1_0_dev.cpython-312-x86_64-linux-gnu.so"
+  "../mtest_5_1_0_dev/_mtest_5_1_0_dev.pdb"
+  "CMakeFiles/py_mtest__mtest.dir/Behaviour.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/Behaviour.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/Constraint.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/Constraint.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/CurrentState.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/CurrentState.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/MFrontLogStream.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/MFrontLogStream.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/MTest.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/MTest.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/MTestFileExport.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/MTestFileExport.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/MTestParser.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/MTestParser.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/MaterialProperty.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/MaterialProperty.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/PipeMesh.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/PipeMesh.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/PipeTest.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/PipeTest.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/SchemeBase.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/SchemeBase.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/SingleStructureScheme.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/SingleStructureScheme.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/SolverWorkSpace.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/SolverWorkSpace.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/StructureCurrentState.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/StructureCurrentState.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/StudyCurrentState.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/StudyCurrentState.cxx.o.d"
+  "CMakeFiles/py_mtest__mtest.dir/pymtest.cxx.o"
+  "CMakeFiles/py_mtest__mtest.dir/pymtest.cxx.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/py_mtest__mtest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

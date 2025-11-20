@@ -1,0 +1,36 @@
+Performing C++ SOURCE FILE Test Wno-covered-switch-default_AVAILABLE failed with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9a968/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_9a968.dir/build.make CMakeFiles/cmTC_9a968.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9a968.dir/src.cxx.o
+/usr/bin/c++   -DWno-covered-switch-default_AVAILABLE -std=gnu++20   -Wno-covered-switch-default -o CMakeFiles/cmTC_9a968.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+cc1plus: note: unrecognized command-line option ‘-Wno-covered-switch-default’ may have been intended to silence earlier diagnostics
+Linking CXX executable cmTC_9a968
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9a968.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-covered-switch-default_AVAILABLE CMakeFiles/cmTC_9a968.dir/src.cxx.o -o cmTC_9a968 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test Wno-weak-vtables_AVAILABLE failed with the following output:
+Change Dir: '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_94004/fast
+/usr/bin/gmake  -f CMakeFiles/cmTC_94004.dir/build.make CMakeFiles/cmTC_94004.dir/build
+gmake[1]: Entering directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_94004.dir/src.cxx.o
+/usr/bin/c++   -DWno-weak-vtables_AVAILABLE -std=gnu++20   -Wno-weak-vtables -o CMakeFiles/cmTC_94004.dir/src.cxx.o -c /home/sylv/TFEL/build/CMakeFiles/CMakeTmp/src.cxx
+<command-line>: warning: ISO C++11 requires whitespace after the macro name
+cc1plus: note: unrecognized command-line option ‘-Wno-weak-vtables’ may have been intended to silence earlier diagnostics
+Linking CXX executable cmTC_94004
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_94004.dir/link.txt --verbose=1
+/usr/bin/c++  -DWno-weak-vtables_AVAILABLE CMakeFiles/cmTC_94004.dir/src.cxx.o -o cmTC_94004 
+gmake[1]: Leaving directory '/home/sylv/TFEL/build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0;}
